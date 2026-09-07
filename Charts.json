@@ -8,7 +8,20 @@
     "against": 1,
     "gd": 2
   },
-  "2012": [],
+  "2012": [
+    {
+      "index": 1,
+      "team": "gundi",
+      "played": 2,
+      "wins": 3,
+      "draws": 4,
+      "losses": 5,
+      "goalsScored": 1,
+      "goalsAgainst": 2,
+      "goalDifference": -1,
+      "points": 13
+    }
+  ],
   "2014": {},
   "2015": {},
   "2020": {
