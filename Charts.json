@@ -10,6 +10,7 @@
   },
   "2012": [
     {
+      "index": 1,
       "team": "0",
       "played": 0,
       "wins": 0,
@@ -17,6 +18,18 @@
       "losses": 0,
       "goalsScored": 0,
       "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0
+    },
+    {
+      "index": 2,
+      "team": "0",
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsScored": 20,
+      "goalsAgainst": 20,
       "goalDifference": 0,
       "points": 0
     }
