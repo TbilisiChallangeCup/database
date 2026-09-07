@@ -8,17 +8,19 @@
     "against": 1,
     "gd": 2
   },
-  "2012": {
-    "team": "2",
-    "played": 3,
-    "wins": 4,
-    "draws": 5,
-    "losses": 6,
-    "goalsScored": 7,
-    "goalsAgainst": 8,
-    "goalDifference": -1,
-    "points": 17
-  },
+  "2012": [
+    {
+      "team": "0",
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsScored": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0
+    }
+  ],
   "2014": {},
   "2015": {},
   "2020": {
