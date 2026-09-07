@@ -1,32 +1,4 @@
 {
-  "2": [
-    {
-      "index": 1,
-      "team": "2",
-      "played": 3,
-      "wins": 3,
-      "draws": 3,
-      "losses": 3,
-      "goalsScored": 3,
-      "goalsAgainst": 3,
-      "goalDifference": 0,
-      "points": 12
-    }
-  ],
-  "4": [
-    {
-      "index": 1,
-      "team": "4",
-      "played": 4,
-      "wins": 4,
-      "draws": 4,
-      "losses": 4,
-      "goalsScored": 4,
-      "goalsAgainst": 4,
-      "goalDifference": 0,
-      "points": 16
-    }
-  ],
   "2010": {
     "played": 1,
     "won": 1,
