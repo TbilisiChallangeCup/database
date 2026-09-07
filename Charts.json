@@ -20,6 +20,18 @@
       "goalsAgainst": 2,
       "goalDifference": -1,
       "points": 13
+    },
+    {
+      "index": 2,
+      "team": "2",
+      "played": 2,
+      "wins": 2,
+      "draws": 2,
+      "losses": 2,
+      "goalsScored": 2,
+      "goalsAgainst": 2,
+      "goalDifference": 0,
+      "points": 8
     }
   ],
   "2014": {},
