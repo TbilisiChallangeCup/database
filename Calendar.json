@@ -8,5 +8,15 @@
       "team2": "aksd",
       "team2Points": 123
     }
+  ],
+  " DeleteTeam(year: string, index: number) {": [
+    {
+      "tour": null,
+      "year": " DeleteTeam(year: string, index: number) {",
+      "team1": "// OctoKid",
+      "team1Points": null,
+      "team2": "// OctoKid",
+      "team2Points": null
+    }
   ]
 }
