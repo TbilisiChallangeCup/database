@@ -9,6 +9,16 @@
       "team2Points": 3
     }
   ],
+  "3": [
+    {
+      "tour": 2,
+      "year": "3",
+      "team1": "https://raw.githubusercontent.com/TbilisiChallangeCup/database/main/images/1789241807545.jpeg",
+      "team1Points": 1,
+      "team2": "https://raw.githubusercontent.com/TbilisiChallangeCup/database/main/images/1789241823131.jpeg",
+      "team2Points": 4
+    }
+  ],
   "2012": [
     {
       "tour": 1,
