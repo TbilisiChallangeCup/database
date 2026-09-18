@@ -1,4 +1,18 @@
 {
+  "2000": [
+    {
+      "index": 0,
+      "team": "https://raw.githubusercontent.com/TbilisiChallangeCup/database/main/images/calendar-1789731038714.jpg",
+      "played": 3,
+      "wins": 4,
+      "draws": 5,
+      "losses": 3,
+      "goalsScored": 2,
+      "goalsAgainst": 99999,
+      "goalDifference": -99997,
+      "points": 17
+    }
+  ],
   "2012": [
     {
       "index": 1,
