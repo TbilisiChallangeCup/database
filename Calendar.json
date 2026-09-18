@@ -9,6 +9,16 @@
       "team2Points": 3
     }
   ],
+  "2000": [
+    {
+      "tour": 2,
+      "year": "2000",
+      "team1": "images/1789732614462.jpeg",
+      "team1Points": 3,
+      "team2": "images/1789732619116.jpeg",
+      "team2Points": 4
+    }
+  ],
   "2012": [
     {
       "tour": 1,
