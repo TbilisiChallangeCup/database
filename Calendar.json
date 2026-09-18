@@ -17,6 +17,18 @@
       "team1Points": 12,
       "team2": "aksd",
       "team2Points": 123
+    },
+    {
+      "index": 0,
+      "team": "https://raw.githubusercontent.com/TbilisiChallangeCup/database/main/images/calendar-1789729115946.jpg",
+      "played": 3,
+      "wins": 2,
+      "draws": 4,
+      "losses": 5,
+      "goalsScored": 2,
+      "goalsAgainst": 6,
+      "goalDifference": -4,
+      "points": 10
     }
   ]
 }
