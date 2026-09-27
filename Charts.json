@@ -53,6 +53,18 @@
       "goalsAgainst": 5,
       "goalDifference": 5,
       "points": 11
+    },
+    {
+      "index": 0,
+      "team": "https://raw.githubusercontent.com/TbilisiChallangeCup/database/main/images/charts-1790523255443.jpg",
+      "played": 5,
+      "wins": 3,
+      "draws": 1,
+      "losses": 1,
+      "goalsScored": 9,
+      "goalsAgainst": 4,
+      "goalDifference": 5,
+      "points": 10
     }
   ]
 }
